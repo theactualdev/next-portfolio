@@ -51,16 +51,19 @@ export const Skill_data = [
 
 export const Socials = [
   {
-    name: "Discord",
-    src: "/instagram.svg",
-  },
-  {
-    name: "Facebook",
-    src: "/facebook.svg",
-  },
-  {
     name: "Instagram",
-    src: "/discord.svg",
+    src: "/instagram.svg",
+    url: "https://www.instagram.com/_theactualdev_/",
+  },
+  {
+    name: "Twitter",
+    src: "/x.png",
+    url: "https://twitter.com/theactualdev",
+  },
+  {
+    name: "Mail",
+    src: "/mail.png",
+    url: "mailto:theolayinkayodele@gmail.com",
   },
 ];
 
