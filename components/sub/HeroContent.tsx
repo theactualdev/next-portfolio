@@ -43,6 +43,7 @@ const HeroContent = () => {
               {" "}
               I&apos;m Ayodele Olayinka{" "}
             </span>
+          {/* deplo */}
           </span>
         </motion.div>
 
